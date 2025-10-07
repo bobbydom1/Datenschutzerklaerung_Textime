@@ -3,7 +3,7 @@
 **Stand:** 7. Oktober 2025  
 **Geltungsbereich:** Mobile App *Wordclock_Homesolutions* (Android/iOS) und begleitende Online‑Präsenzen, soweit nachfolgend benannt.
 
-Wir, **HOMESOLUTIONS (Choquet)**, nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Diese Datenschutzerklärung erläutert, **welche Daten** unsere App verarbeitet, **zu welchen Zwecken**, **auf welcher Rechtsgrundlage** und **welche Rechte** Sie haben.
+Wir, **HOMESOLUTIONS **, nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Diese Datenschutzerklärung erläutert, **welche Daten** unsere App verarbeitet, **zu welchen Zwecken**, **auf welcher Rechtsgrundlage** und **welche Rechte** Sie haben.
 
 ---
 
