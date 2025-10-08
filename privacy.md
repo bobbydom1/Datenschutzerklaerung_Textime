@@ -51,9 +51,6 @@ Die Einwilligung kann jederzeit in den **Systemeinstellungen** widerrufen werden
 **Datenaufbewahrung**  
 Keine Aufbewahrung – es erfolgt **keine persistente Speicherung** von Standortdaten.
 
-**Hintergrundstandort**  
-Die App nutzt **keinen Zugriff auf den Standort im Hintergrund**.
-
 **Kontakt**  
 homesolutions.shopping@gmail.com
 
