@@ -33,11 +33,30 @@ E‑Mail: **homesolutions.shopping@gmail.com**
 - **Rechtsgrundlage:** **Art. 6 Abs. 1 lit. b DSGVO** (Vertragserfüllung bzw. vorvertragliche Maßnahmen, sofern Sie die App zur Nutzung Ihres Produkts einsetzen) sowie **Art. 6 Abs. 1 lit. f DSGVO** (berechtigte Interessen an sicherer und funktionsfähiger Bereitstellung).  
 - **Hinweis:** Es erfolgt **kein Tracking** über Bluetooth, keine Analyse personenbezogener Nutzungsdaten.
 
-### 3.2 Standortberechtigungen (Android – versionsabhängig)
-- Auf **älteren Android‑Versionen** kann das System für BLE‑Scans (Gerätesuche) eine Standort‑Berechtigung verlangen.  
-- **Wir erfassen, speichern oder teilen keine Standortdaten.** Die Berechtigung dient ausschließlich dazu, dass Android **BLE‑Geräte finden** lässt; es wird **kein Standortverlauf** erzeugt und **nichts an uns** oder Dritte übermittelt.  
-- **Rechtsgrundlage:** **Art. 6 Abs. 1 lit. f DSGVO** (berechtigtes Interesse an der Funktionsfähigkeit der App).  
-- **Konsequenz bei Verweigerung:** Ohne Berechtigung ist eine BLE‑Gerätesuche ggf. nicht möglich.
+## Standortdaten (Location)
+
+**Welche Daten?**  
+Diese App **greift auf Standortdaten zu**.
+
+**Zweck der Verarbeitung**  
+Ausschließlich zur **Bereitstellung der App-Funktionalität** (Gerätesuche/Verbindung via BLE). **Kein** Tracking, **kein** Profiling, **keine** Werbung.
+
+**Speicherung / Übermittlung / Weitergabe**  
+Die Standortdaten werden **nur lokal auf dem Endgerät verarbeitet**, **nicht gespeichert**, **nicht an Server übermittelt** und **nicht an Dritte weitergegeben**.
+
+**Rechtsgrundlage & Einwilligung**  
+Der Zugriff erfolgt nur nach **Einwilligung** (prominente In-App-Offenlegung + System-Berechtigungsdialog).  
+Die Einwilligung kann jederzeit in den **Systemeinstellungen** widerrufen werden.
+
+**Datenaufbewahrung**  
+Keine Aufbewahrung – es erfolgt **keine persistente Speicherung** von Standortdaten.
+
+**Hintergrundstandort**  
+Die App nutzt **keinen Zugriff auf den Standort im Hintergrund**.
+
+**Kontakt**  
+homesolutions.shopping@gmail.com
+
 
 ### 3.3 Netzwerkzugriff
 - **Zweck:** Technisch erforderliche Verbindungen, z. B. zur Zeit‑/NTP‑Synchronisation oder zum Abruf nicht‑personalisierter Inhalte.  
