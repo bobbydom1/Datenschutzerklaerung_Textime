@@ -14,7 +14,6 @@ Schillerstr. 31
 70825 Korntal‑Münchingen, Deutschland  
 E‑Mail: **homesolutions.shopping@gmail.com**
 
-*(Ein Datenschutzbeauftragter ist nicht benannt, da hierfür aktuell keine gesetzliche Pflicht besteht.)*
 
 ---
 
